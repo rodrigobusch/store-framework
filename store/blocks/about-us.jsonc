@@ -92,8 +92,8 @@
             "textPosition": "CENTER",
             "font": "t-heading-3"
         }
-      },
-      "iframe": {
+    },
+    "iframe": {
         "props": {
             "width": "800px",
             "height": "1000px",
